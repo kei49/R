@@ -1,0 +1,12 @@
+Number of earthquake in Japan from 1997 to 2009(Japan Meteorological Agency)
+M,N
+2,171159
+3,42502
+4,7749
+5,878
+6,112
+7,15
+8,1
+
+M:Magnutude
+N:number of earthquake for M

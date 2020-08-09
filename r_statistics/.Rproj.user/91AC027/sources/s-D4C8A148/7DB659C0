@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1582796408890.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "7DB659C0",
+    "lastKnownWriteTime" : 1586092002,
+    "last_content_update" : 1586092002395,
+    "path" : "~/business-git/git/R/r_statistics/sample.R",
+    "project_path" : "sample.R",
+    "properties" : {
+        "cursorPosition" : "24,0",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

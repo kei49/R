@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1586062537136.000,
+    "dirty" : true,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2280265505",
+    "id" : "35137246",
+    "lastKnownWriteTime" : 1586309240,
+    "last_content_update" : 1586431591960,
+    "path" : "~/business-git/git/R/r_statistics/various_distrubutuins.R",
+    "project_path" : "various_distrubutuins.R",
+    "properties" : {
+        "cursorPosition" : "107,10",
+        "scrollLine" : "87",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
